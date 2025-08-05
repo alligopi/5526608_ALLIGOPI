@@ -1,7 +1,7 @@
 # 5526608_ALLIGOPI
 
 # Great Learning Certificate
-![image alt](https://github.com/alligopi/5526608_ALLIGOPI/blob/692f1e73d0488d518acf1374592f16ac4733f1c5/SDLC/Great_learning_agiel.png)
+![image alt](https://github.com/alligopi/5526608_ALLIGOPI/blob/cbac65b5dc71134eff0311433e2d094d998d985a/SDLC/Agile%20for%20beginers.png)
 
 
 # Simply Learning Certificate
