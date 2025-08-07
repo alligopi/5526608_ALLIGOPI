@@ -9,3 +9,6 @@
 
 # C Fundamentals Certificate
 ![image alt](https://github.com/alligopi/5526608_ALLIGOPI/blob/822abb1a6d6723a32592fc2ecf12e1dcc0043d56/Essentials%20of%20C%20Programming/c_fundamentals.png)
+
+# C Intermediate Certificate
+![image alt](https://github.com/alligopi/5526608_ALLIGOPI/blob/54cb6dc71758ba645a30202b940df80decd46fab/Essentials%20of%20C%20Programming/C_intermediate.jpg)
